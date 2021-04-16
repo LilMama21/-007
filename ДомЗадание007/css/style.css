@@ -1,0 +1,114 @@
+body {
+    background-color: black;
+    font-family: 'Montserrat', sans-serif;
+}
+.wrapper {
+    max-width: 970px;
+    height: 100%;
+    padding-left: 15px;
+    padding-right: 15px;
+    margin: 0 auto;
+}
+.header {
+    background-image: url(../image/andrew-neel-fGvXxVxmTi8-unsplash\ 1.png);
+    width: 1000px;
+    height: 1136px;
+    margin: auto;
+}
+h1 {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 70px;
+    line-height: 85px;
+    max-width: 853px;
+    color: #FFFFFF;
+    margin-top: 100px;
+    margin-left: 73px;
+    margin-right: 74px;
+} 
+span {
+    color: #F66C41;
+}
+.main--conteiner {
+    margin-left: 73px;
+}
+.main--text01 {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 36px;
+    line-height: 44px;
+    color: #BCBBBB;
+}
+h2 {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 70px;
+    line-height: 85px;
+    color: #FFFFFF;
+}
+.main--text02 {
+    font-family: 'Montserrat';
+    font-style: italic;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 44px;
+    max-width: 853px;
+    color: #FFFFFF;
+}
+.main--spisok {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 36px;
+    line-height: 44px;
+    color: #FFFFFF;
+}
+.main--joke {
+    margin-left: 73px;
+    margin-top: 90px;
+}
+h3 {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 70px;
+    line-height: 85px;
+    color: #FFFFFF;
+    margin: 0;
+}
+.joke--text {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 36px;
+    line-height: 44px;
+    max-width: 811px;
+    color: #FFFFFF;
+}
+a {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 36px;
+    line-height: 44px;
+    text-decoration-line: underline;
+    color: #F66C41;
+}
+.footer--contact {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 90px;
+}
+.footer--contact>p {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 44px;
+    color: #FFFFFF;
+    padding-left: 15px;
+}
